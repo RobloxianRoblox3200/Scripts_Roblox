@@ -2571,3 +2571,5 @@ RunService:UnbindFromRenderStep(UpdateName);
 
 RunService:BindToRenderStep(GetDataName, 300, UpdatePlayerData);
 RunService:BindToRenderStep(UpdateName, 199, Update);
+
+					
