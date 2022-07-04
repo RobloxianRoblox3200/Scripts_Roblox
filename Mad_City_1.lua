@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/miroeramaa/TurtleLib/main/TurtleUiLib.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxianRoblox3200/Scripts_Roblox/main/Gui_Scipts_Lua/Gui_1.lua"))()
 local window1 = library:Window("FE Scripts 1")
 local window2 = library:Window("LocalPlayer")
 local window3 = library:Window("Car Settings")
