@@ -1,3 +1,4 @@
+--key sx_uAunCskqHfE8SW4V8
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxianRoblox3200/Scripts_Roblox/main/Jailbreak.lua"))()
 --[[
     __      __          _      _                  _       _ _ _                    _    
