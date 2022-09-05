@@ -1,3 +1,5 @@
+--loadstring(game.HttpGet(game, 'https://raw.githubusercontent.com/RobloxianRoblox3200/Scripts_Roblox/main/Specter_2_v1.lua', true))()
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/forumsLib/main/source.lua"))()
 local Forums = Library.new('Linsher | Specter 2 GUI')
 local Evidence,Visuals,Teleports,Changers,Misc
