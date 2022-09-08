@@ -1,0 +1,3 @@
+print("The script is embedded in the game")
+loadstring(game:HttpGet"https://thedragonslayer2.github.io")()
+--repeat task.wait()until game:IsLoaded()if not IrisNotificationMrJack then loadstring(game:HttpGet"https://raw.githubusercontent.com/thedragonslayer2/hey/main/Misc./iris%20notification%20function")()elseif IrisNotificationUserMrJack then IrisNotificationUserMrJack.ClearAllNotifications()end;IrisNotificationMrJack(1,"Key System","Executed! Please wait...",9e9)task.wait(0.4)getgenv().gameslink="https://raw.githubusercontent.com/thedragonslayer2/Supported-Games/main/Mr%20Jack"loadstring(game:HttpGet"https://raw.githubusercontent.com/thedragonslayer2/Key-System/main/Load.lua")()
