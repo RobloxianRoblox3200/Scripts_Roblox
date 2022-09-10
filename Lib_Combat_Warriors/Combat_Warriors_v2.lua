@@ -244,7 +244,7 @@ end
 if _G.HitDistance == nil then
     _G.HitDistance = 15
 end
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/RobloxianRoblox3200/Scripts_Roblox/main/Lib/Lib_Gui.lua'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/RobloxianRoblox3200/Scripts_Roblox/main/Lib_Combat_Warriors/Lib_Gui.lua'))()
 local Window = Library:CreateWindow('silent aim', 'combat warriors')
 local Tab = Window:CreateTab('main', true, 'rbxassetid://3926305904', Vector2.new(484, 44), Vector2.new(36, 36))
 local Section = Tab:CreateSection('silent aim')
