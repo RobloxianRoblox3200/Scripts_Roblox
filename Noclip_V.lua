@@ -7,7 +7,7 @@ local Indicator
 
 if not StealthMode then
     local ScreenGui = Instance.new("ScreenGui", game.CoreGui)
-    print("NOCLIP: Press Q to Activate")
+    print("NOCLIP: Press V to Activate")
     Indicator = Instance.new("TextLabel", ScreenGui)
     Indicator.AnchorPoint = Vector2.new(0, 1)
     Indicator.Position = UDim2.new(0, 0, 1, 0)
