@@ -31,7 +31,7 @@ mouse.KeyDown:Connect(function(key)
         noclip = not noclip
 
         if not StealthMode then
-            Indicator.Text = "Noclip: " .. (noclip and "Enabled" or "Disabled")
+            Indicator.Text = "Noclip press V: " .. (noclip and "Enabled" or "Disabled")
         end
     end
 end)
