@@ -1,4 +1,5 @@
 --[[
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Build%20A%20Boat%20For%20Treasure/Script.lua"))()
      ____        _ _     _              ____              _     ______           _______                                
     |  _ \      (_) |   | |     /\     |  _ \            | |   |  ____|         |__   __|                               
     | |_) |_   _ _| | __| |    /  \    | |_) | ___   __ _| |_  | |__ ___  _ __     | |_ __ ___  __ _ ___ _   _ _ __ ___ 
