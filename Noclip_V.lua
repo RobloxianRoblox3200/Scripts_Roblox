@@ -1,4 +1,3 @@
--- Noclip by Alumark on v3rmilion
 -- Press V to activate
 
 local StealthMode = false -- If game has an anticheat that checks the logs
