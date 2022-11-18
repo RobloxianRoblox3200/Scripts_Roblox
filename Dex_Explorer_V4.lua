@@ -1,3 +1,5 @@
+print("Loaded")
+
 --[[
 	DEX Main Script
 	
