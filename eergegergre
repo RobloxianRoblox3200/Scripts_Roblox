@@ -1,4 +1,0 @@
-local function TEIRHHT_fake_script(t) 
-	local Textlable = game.Players.LocalPlayer:WaitForChild("PlayerGui").ScreenGui.TextLabel
-	Textlable.Text = t
-end
